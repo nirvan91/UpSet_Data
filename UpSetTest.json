@@ -1,5 +1,5 @@
 {
-	"file": "http://vcg.github.io/upset/data/test/test.csv",
+	"file": "https://github.com/nirvan91/UpSet_Data/raw/main/DAT_UpSet.csv",
 	"name": "Test",
 	"header": 0,
 	"separator": ";",
